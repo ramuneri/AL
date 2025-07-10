@@ -1,3 +1,10 @@
+Homework task - Personal Code Checker
+
+Description:
+![alt text](image.png)
+
+---------------------------------
+
 Test data:
 
 'Teisingas':
